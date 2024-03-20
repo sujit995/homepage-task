@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1250px;
+  }
+  
+  .bg-image {
+    background-image: url('assets/images/bg-image.png');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+  }
+
+  .listtype{
+    list-style-type: circle;
+  }
+
+  .sublisttype{
+    list-style-type: lower-alpha;
+  }
+
+  .button-footer {
+    border-radius: 4px;
+    background: linear-gradient(267deg, #7184fd 20%, #3f7af0 50%, #4f37ee);
+    box-shadow: 0 4px 6px -4px rgba(0,0,0,.1), 0 10px 15px -3px rgba(0,0,0,.1);
+    color: white;
+}
