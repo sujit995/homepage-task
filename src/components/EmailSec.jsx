@@ -43,7 +43,7 @@ const EmailSec = () => {
         <p className="text-[16px] font-normal align-middle text-center mt-5">
           DeFi & NFT Hacks, CTFs, and Blockchain Security Insights straight to
           your Inbox. Explore our weekly newsletter: HashingBits. Stay updated
-          on everything we’re publishing. Stand a step ahead.
+          on everything we&#39;re publishing. Stand a step ahead.
         </p>
         <input
           type="text"

@@ -43,9 +43,6 @@ const Navbar = () => {
               <li className="ml-4 text-white">Refer-Earn-Recure</li>
             </ul>
           </div>
-          {/* <button className="px-4 md:px-6 py-2 md:py-3 rounded-lg text-white font-400 md:font-500 text-jost bg-gradient-to-r from-blue-700 via-blue-500 to-blue-300 shadow-md hover:shadow-lg focus:outline-none focus:ring focus:ring-blue-300">
-            Request An Audits
-          </button> */}
           <Button text="Request An Audits" />
           <div className="flex md:hidden items-center">
                 <RxHamburgerMenu className="text-white h-7 w-7" />
